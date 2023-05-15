@@ -1,4 +1,4 @@
-# ML-projects
+# Ml from scratch
 
 In these notebooks I built classical algorithms of machine learning from scratch.
 The data was taken from my university files and contained no useful information.
